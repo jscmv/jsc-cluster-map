@@ -1,0 +1,39 @@
+{ 
+    "name": "ށ. ޖުޑީޝަލް ދާއިރާ",
+    "clusterMap": "SH",
+    "totalClusters": 2,
+    "totalCases": 371,
+    "finishedCases": 370,
+    "clusters": {
+      "(C1) - މިލަންދޫ ކްލަސްޓަރ": {
+        "islands": [
+          {"id":"1", "name": "ފޭދޫ", "hasJudge": true},
+          {"id":"2", "name": "ނޫމަރާ", "hasJudge": false},
+          {"id":"3", "name": "ބިލެތްފަހި", "hasJudge": false},
+          {"id":"4", "name": "ކަނޑިތީމު", "hasJudge": false},
+          {"id":"5", "name": "ފީވަކު", "hasJudge": true},
+          {"id":"6", "name": "ގޮއިދޫ", "hasJudge": false},
+          {"id":"7", "name": "ފޯކައިދޫ", "hasJudge": true},
+          {"id":"8", "name": "ނަރުދޫ", "hasJudge": false},
+          {"id":"9", "name": "މިލަންދޫ", "hasJudge": true}
+        ],
+        "totalCases": 247,
+        "finishedCases": 253,
+         "magistrates": 4
+     },
+        "(C2) - ފުނަދޫ ކްލަސްޓަރ": {
+           "islands": [
+             {"id":"1", "name": "މާއުގޫދޫ", "hasJudge": false},
+             {"id":"2", "name": "ކޮމަންޑޫ", "hasJudge": false},
+             {"id":"3", "name": "ޅައިމަގު", "hasJudge": false},
+             {"id":"4", "name": "މަރޮށި", "hasJudge": false},
+             {"id":"5", "name": "ފުނަދޫ", "hasJudge": true}
+           ],
+           "totalCases": 124,
+           "finishedCases": 117,
+           "magistrates": 1
+      }
+        
+       
+    }
+ }

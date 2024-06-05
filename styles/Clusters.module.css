@@ -1,0 +1,89 @@
+.clusters{
+    background-color: #F2F2F2;
+    overflow: hidden;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.clustername{
+    border-bottom: 1px solid #b8b8b8;
+    padding: 0.5rem 1rem;
+}
+.clusternamee{
+    color: #3b6287;
+   
+}
+
+.clustername h4{
+    margin: 0;
+}
+.progress {
+    width: 100%;
+    background-color: #dbdbdb;
+    border-radius: 10px;
+    
+  }
+.percentage {
+    text-align: left;
+    color: #3b6287;
+   
+}
+  
+.progressbar {
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-left: 0;
+    height: 15px;
+    background-color: #3b6287;
+  }
+  .issmagistratemain{
+      text-align: left;
+      flex: 1 0;
+  }
+.infos{
+    color: #748391;
+    margin-bottom: 20px;
+}
+.nimunumassala{
+    border-radius: 14px;
+    padding: 18px;
+    background-color: #e7e7e7;
+}
+.infos i{
+    color: #748391;
+}
+.infoss i{
+    color: #313131;
+}
+.infoss{
+    color: #313131;
+}
+  .issmagistrate{
+    text-align: center;
+    border-radius: 18px;
+    display: block;
+    width: 100%;
+    background-color: #e7e7e7;
+    padding: 6px 14px;
+    color: #917f4e;
+  }
+  .issmagistratetext{
+      margin: 0;
+  }
+
+
+  @media all and (min-width: 992px) {
+    .infos{
+        margin-bottom: 10px;
+    }
+}
+
+.totalinfo{
+    border-right: 2px solid #3b6287;
+    padding-right: 12px;
+}
+
+.totalinfo h5 {
+    margin: 0;
+
+}

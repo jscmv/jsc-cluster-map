@@ -1,0 +1,18 @@
+{ 
+    "name": "ޏ. ޖުޑީޝަލް ދާއިރާ",
+    "clusterMap": "GN",
+    "totalClusters": 1,
+    "totalCases": 545,
+    "finishedCases": 555,
+    "clusters": {
+        "(R1) - ފުވައްމުލަކު ކްލަސްޓަރ": {
+           "islands": [
+               {"id":"1", "name": "ފުވަމުލަށް", "hasJudge": true}
+           ],
+           "totalCases": 545,
+           "finishedCases": 555,
+           "magistrates": 3
+        }
+       
+    }
+ }

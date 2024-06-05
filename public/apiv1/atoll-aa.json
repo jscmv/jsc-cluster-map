@@ -1,0 +1,41 @@
+{ 
+    "name": "އއ. ޖުޑީޝަލް ދާއިރާ",
+    "clusterMap": "AA",
+    "totalClusters": 3,
+    "totalCases": 340,
+    "finishedCases": 299,
+    "clusters": {
+        "(U1) - ރަސްދޫ ކްލަސްޓަރ": {
+            "islands": [
+                 {"id":"1", "name": "ރަސްދޫ", "hasJudge": true},
+                 {"id":"2", "name": "ތޮއްޑޫ", "hasJudge": true}
+            ],
+            "totalCases": 147,
+            "finishedCases": 118,
+             "magistrates": 1
+         },
+         "(U2) - އުކުޅަހު ކްލަސްޓަރ": {
+            "islands": [
+                {"id":"1", "name": "ބޮޑުފުޅަދޫ", "hasJudge": false},
+                {"id":"2", "name": "އުކުޅަސް", "hasJudge": true},
+                {"id":"3", "name": "މަތިވެރި", "hasJudge": false}
+
+            ],
+            "totalCases": 114,
+            "finishedCases": 121,
+             "magistrates": 1
+         },
+         "(U3) - މާޅޮހު ކްލަސްޓަރ": {
+            "islands": [
+                {"id":"1", "name": "ހިމަންދޫ", "hasJudge": false},
+                {"id":"2", "name": "މާޅޮސް", "hasJudge": false},
+                {"id":"3", "name": "ފެރިދޫ", "hasJudge": false}
+
+            ],
+            "totalCases": 79,
+            "finishedCases": 60,
+             "magistrates": 0
+         }
+       
+    }
+ }
